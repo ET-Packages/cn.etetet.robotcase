@@ -1,0 +1,7 @@
+{
+"Id": 27,
+"Name": "RobotCase",
+"GitDependencies": {
+  "cn.etetet.core": "https://github.com/ET-Packages/cn.etetet.core.git#0.0.1"
+}
+}
