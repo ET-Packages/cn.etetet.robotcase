@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.robotcase",
   "displayName": "ET.RobotCase",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "unity": "2022.3",
   "description": "测试用例组件",
   "author": {
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "1.0.0"
+    "cn.etetet.core": "2.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
